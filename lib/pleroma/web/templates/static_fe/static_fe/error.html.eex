@@ -1,0 +1,8 @@
+<div class="panel">
+  <div class="panel-heading">
+    <%= gettext("Error") %>
+  </div>
+  <div class="status-container">
+    <%= @message %>
+  </div>
+</div>

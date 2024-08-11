@@ -1,0 +1,8 @@
+<div class="panel conversation">
+  <div class="panel-heading">
+    <%= gettext("Conversation") %>
+  </div>
+  <%= for activity <- @activities do %>
+  <%= render("_notice.html", activity) %>
+  <% end %>
+</div>

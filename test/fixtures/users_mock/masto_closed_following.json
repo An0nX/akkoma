@@ -1,0 +1,7 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "id": "http://remote.org/users/masto_closed/following",
+  "type": "OrderedCollection",
+  "totalItems": 152,
+  "first": "http://remote.org/users/masto_closed/following?page=1"
+}
